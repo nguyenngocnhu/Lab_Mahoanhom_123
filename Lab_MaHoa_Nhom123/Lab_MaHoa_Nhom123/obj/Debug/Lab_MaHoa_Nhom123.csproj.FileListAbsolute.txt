@@ -1,0 +1,11 @@
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\bin\Debug\Lab_MaHoa_Nhom123.exe.config
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\bin\Debug\Lab_MaHoa_Nhom123.exe
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\bin\Debug\Lab_MaHoa_Nhom123.pdb
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\obj\Debug\Lab_MaHoa_Nhom123.csproj.AssemblyReference.cache
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\obj\Debug\Lab_MaHoa_Nhom123.csproj.SuggestedBindingRedirects.cache
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\obj\Debug\Lab_MaHoa_Nhom123.Form1.resources
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\obj\Debug\Lab_MaHoa_Nhom123.Properties.Resources.resources
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\obj\Debug\Lab_MaHoa_Nhom123.csproj.GenerateResource.cache
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\obj\Debug\Lab_MaHoa_Nhom123.csproj.CoreCompileInputs.cache
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\obj\Debug\Lab_MaHoa_Nhom123.exe
+D:\Lab_MaHoa_Nhom123\Lab_MaHoa_Nhom123\obj\Debug\Lab_MaHoa_Nhom123.pdb
